@@ -1,0 +1,6 @@
+1.- instalar jdk 1.17
+2.- instalar mysql server ultima version
+3.- conectar a servidor mysql
+4.- ejecutar script creacion_db
+5.- ejecutar script creacion_usuario
+6.- levantar proyecto utilizando intellij o eclipse.
